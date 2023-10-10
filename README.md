@@ -1,7 +1,7 @@
-# CIKM23-AQG-AdjunctQuestions
+# AQG-AdjunctQuestions
 
-This is the repository of data and analysis code for the paper "On the Effects of Automatically Generated Adjunct Questions for
-Search as Learning" submitted to CIKM 2023.
+This is the repository of data and analysis code for the paper submission "On the Effects of Automatically Generated Adjunct Questions for
+Search as Learning".
 
 ---
 ## Data
